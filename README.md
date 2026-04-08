@@ -1,6 +1,9 @@
 # Poll_Visualizerapp
-# 📊 Poll Visualizer & Feedback Analysis App
-
+ 📊 Poll Visualizer & Feedback Analysis App
+## MARKDOWN-
+## Acknowledgement##
+This project was developed with guidance and mentorship support. 
+....................................................................................
 ## 🚀 Overview
 The Poll Visualizer is an interactive **Streamlit dashboard** designed to analyze survey or poll data from a cleaned CSV file. It helps users understand trends, preferences, and feedback using visual analytics.
 
